@@ -59,25 +59,25 @@ plugins:
   - jemoji
 
 # Jekyll-Scholar
-#scholar:
-#  last_name: Drakos
-#  style: apa
-#  locale: en
-#  sort_by: year
-#  order: descending
-#  source: /_bibliography/
-#  bibliography: papers.bib
-#  bibliography_template: publication
-#  reference_tagname: div
+scholar:
+  last_name: Drakos
+  style: apa
+  locale: en
+  sort_by: year
+  order: descending
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: publication
+  reference_tagname: div
 
-#  replace_strings: true
-#  join_strings: true
+  replace_strings: true
+  join_strings: true
 
-#  details_dir: bibliography
-#  details_layout: bibtex.html
-#  details_link: Details
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
 
-#  query: "@*"
+  query: "@*"
 
 # -----------------------------------------------------------------------------
 # Other settings
