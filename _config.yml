@@ -2,9 +2,9 @@
 # Site Settings
 # -----------------------------------------------------------------------------
 
-name: Anthony Platanios
-email: e.a.platanios@gmail.com
-description: Personal website of Anthony Platanios.
+name: George Nick Drakos
+email: g.n.drakos@gmail.com
+description: Personal website of George N. Drakos.
 # footer_text: >
 #   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -16,10 +16,10 @@ url: platanios.org
 # Social Integration
 # -----------------------------------------------------------------------------
 scholar_userid: EFVk-mwAAAAJ
-github_username: eaplatanios
-linkedin_username: eplatanios
-facebook_username: anthony.platanios
-twitter_username: eaplatanios
+github_username: gndrak
+#linkedin_username: eplatanios
+#facebook_username: anthony.platanios
+#twitter_username: eaplatanios
 contact_note: Feel free to drop me a line via email.
 
 google_analytics: UA-54519238-1
@@ -60,7 +60,7 @@ plugins:
 
 # Jekyll-Scholar
 scholar:
-  last_name: Platanios
+  last_name: Drakos
   style: apa
   locale: en
   sort_by: year
